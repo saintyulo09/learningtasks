@@ -11,10 +11,7 @@
                 <h1>Poverty in the Philippines</h1>
                 <div id="navigation">
                     <ul>
-                        <li><a href="index.html">HOME</a></li>
-                        <li><a href="causes.html">CAUSES OF POVERTY</a></li>
-                        <li><a href="imgages.html">IMAGES OF POVERTY</a></li>
-                        <li><a href="about.html">ABOUT POVERTY</a></li> 
+                        <li><a href="/CLE1MT/index.html">HOME</a></li>
                     </ul>       
         </div>
         </div>
@@ -30,12 +27,7 @@ on the poor. Great inequality across income brackets, regions, and sectors, as w
 growth, are considered some of the key factors constraining poverty reduction efforts.</p> 
                 
                 </div>
-            <div id="about-image">
-                <img src="homeimage.jpg" title="poverty" alt="poverty"/>
-                
-                
-                
-                </div>
+   
             </div>
             </div>
             <div id="footer">
